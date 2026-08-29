@@ -10,7 +10,7 @@ characteristics and location-related features.
 
 ## Dataset
 
-https://github.com/viooomldyr/airbnb-price-prediction/tree/d8bc2006c89d766cdba95fd37fe434107a6e479f/dataset
+The dataset is used from a private Kaggle competition (OmahTI Academy Data Science & AI Final Project). Because it is private, the dataset cannot be accessed publicly on Kaggle.
 
 ## Methodology
 
@@ -31,7 +31,7 @@ LGBMRegressor
 
 ### Kaggle Public Leaderboard
 
-- MAPE: **27.17%**
+- MAPE (Mean Absolute Percentage Error) : 27.17%
 
 The leaderboard score was calculated by Kaggle using the
 competition's hidden test data.
