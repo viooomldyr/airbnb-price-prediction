@@ -10,7 +10,7 @@ characteristics and location-related features.
 
 ## Dataset
 
-[Dataset information / Kaggle competition link]
+https://github.com/viooomldyr/airbnb-price-prediction/tree/d8bc2006c89d766cdba95fd37fe434107a6e479f/dataset
 
 ## Methodology
 
